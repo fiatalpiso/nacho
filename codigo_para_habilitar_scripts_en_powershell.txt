@@ -1,0 +1,2 @@
+Set-ExecutionPolicy Unrestricted -Force
+.\Windows10DebloaterGUI.ps1
